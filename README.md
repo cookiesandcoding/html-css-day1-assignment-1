@@ -1,1 +1,1 @@
-# html-css-day1-assignments
+# html-css-day1-assignment-1
